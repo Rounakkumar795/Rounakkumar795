@@ -9,7 +9,7 @@
   <img align="left" alt="Rounak's Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/codechef.svg" />
 </a>
 
-<a href="https://codeforces.com/profile/prerit2001">
+<a href="https://codeforces.com/profile/PegasisShow">
   <img align="left" alt="Rounak's Codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/codeforces.svg" />
 </a>
 
