@@ -23,7 +23,7 @@
 <br>
 
 [![Github](https://img.shields.io/github/followers/Rounakkumar795?label=Follow&style=social)](https://github.com/Rounakkumar795)
-[![GithubViews](https://api.freemotion-llc.com/api/github/v1/profile-views?username=prerit2001)](https://github.com/Rounakkumar795)
+[![GithubViews](https://api.freemotion-llc.com/api/github/v1/profile-views?username=Rounakkumar795)](https://github.com/Rounakkumar795)
 
 
 
@@ -35,7 +35,7 @@
 <br>
 <br>
 
-<h2 align='center'><samp><strong>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am <a href="https://github.com/prerit2001" target="_blank">Rounak Kumar Jha🌐</a></strong></samp></h2>
+<h2 align='center'><samp><strong>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am <a href="https://github.com/Rounakkumar795" target="_blank">Rounak Kumar Jha🌐</a></strong></samp></h2>
 <p align='center'>Competitive Programmer | Computer Vision </p>
 
 <p align='center'>  As someone who is always passionate for learning more about tech and life. I am a unstopped learner.</p>
