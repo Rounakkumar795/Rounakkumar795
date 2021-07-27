@@ -22,12 +22,12 @@
 </p>
 <br>
 
-[![Github](https://img.shields.io/github/followers/prerit2001?label=Follow&style=social)](https://github.com/Rounakkumar795)
+[![Github](https://img.shields.io/github/followers/Rounakkumar795?label=Follow&style=social)](https://github.com/Rounakkumar795)
 [![GithubViews](https://api.freemotion-llc.com/api/github/v1/profile-views?username=prerit2001)](https://github.com/Rounakkumar795)
 
 
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-Prerit%20Kumar%20Jha-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/rounak-kumar-jha-37897b166/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-Rounak%20Kumar%20Jha-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/rounak-kumar-jha-37897b166/)
 [![Mail](https://img.shields.io/badge/gmail-rounakkumar795@gmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:rounakkumar795@gmail.com)
 
 
@@ -82,7 +82,7 @@ Hi, I'm [Rounak Kumar Jha](https://github.com/Rounakkumar795), Competitive Progr
   <details>
 <summary>📈 My GitHub Stats</summary>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=prerit2001&show_icons=true&theme=gotham" alt="Rounakkumar795" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Rounakkumar795&show_icons=true&theme=gotham" alt="Rounakkumar795" />
 
 </details>
 </p>
