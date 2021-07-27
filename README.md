@@ -1,11 +1,11 @@
 📩 &nbsp; ***Feel free to contact me. I am always here ...***
 <img align='right' alt="GIF" width="320px" height="200px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
 <p align='centre'>
-<a href="https://www.linkedin.com/in/prerit-kumar-jha-5513a3134/">
+<a href="https://www.linkedin.com/in/rounak-kumar-jha-37897b166/">
   <img align="left" alt="Rounak's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-<a href="https://www.codechef.com/users/prerit2001">
+<a href="https://www.codechef.com/users/highflyer_">
   <img align="left" alt="Rounak's Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/codechef.svg" />
 </a>
 
@@ -13,40 +13,35 @@
   <img align="left" alt="Rounak's Codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/codeforces.svg" />
 </a>
 
-<a href="https://www.instagram.com/preritkrjha/">
+<a href="https://www.instagram.com/rounak_._/">
   <img align="left" alt="Rounak's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a> 
 
-![](https://visitor-badge.glitch.me/badge?page_id=prerit2001.prerit2001)
+![](https://visitor-badge.glitch.me/badge?page_id=Rounakkumar795.Rounakkumar795)
 
 </p>
 <br>
 
-[![Github](https://img.shields.io/github/followers/prerit2001?label=Follow&style=social)](https://github.com/prerit2001)
-[![GithubViews](https://api.freemotion-llc.com/api/github/v1/profile-views?username=prerit2001)](https://github.com/prerit2001)
+[![Github](https://img.shields.io/github/followers/prerit2001?label=Follow&style=social)](https://github.com/Rounakkumar795)
+[![GithubViews](https://api.freemotion-llc.com/api/github/v1/profile-views?username=prerit2001)](https://github.com/Rounakkumar795)
 
 
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-Prerit%20Kumar%20Jha-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/prerit-kumar-jha-5513a3134/)
-[![Mail](https://img.shields.io/badge/gmail-preritkrjha@gmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:preritkrjha@gmail.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-Prerit%20Kumar%20Jha-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/rounak-kumar-jha-37897b166/)
+[![Mail](https://img.shields.io/badge/gmail-rounakkumar795@gmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:rounakkumar795@gmail.com)
 
 
 
 <br>
 <br>
 
-<h2 align='center'><samp><strong>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am <a href="https://github.com/prerit2001" target="_blank">Prerit Kumar Jha🌐</a></strong></samp></h2>
-<p align='center'>Competitive Programmer | Full-stack Developer | Node/React Developer | Android Developer | ML/DL Enthusiast </p>
+<h2 align='center'><samp><strong>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am <a href="https://github.com/prerit2001" target="_blank">Rounak Kumar Jha🌐</a></strong></samp></h2>
+<p align='center'>Competitive Programmer | Computer Vision </p>
 
 <p align='center'>  As someone who is always passionate for learning more about tech and life. I am a unstopped learner.</p>
 
 
-Hi, I'm [Prerit Kumar Jha](https://github.com/prerit2001), Competitive Programmer and a Full Stack Developer 🚀 from India. Currently, I'm a Collaborating with my College Mates for Completion of big Project [ Virtual Interview Platform ](https://github.com/BTP-Project/Virtual-Interview). Beside's programming, I enjoy exploring and traveling.
-
-💬 **Knowledge of:** `Git`, `GitHub`, `VsCode`, `HTML5`, `CSS3`,  `Responsive web design`, `FontAwesome`, `Javascript`(ES6), `DOM`, `jQuery`, `Bootstrap`, `JSON`,
- `ReactJS`, `Redux`, `MySQL`,  `NodeJS`, `Jest`, `NPM`,`Object-Oriented Programming`, `data structures and algorithms`.
-
-💬 **Deployment platforms** such as `github pages`, `Herkou` and `Firebase`.
+Hi, I'm [Rounak Kumar Jha](https://github.com/Rounakkumar795), Competitive Programmer 🚀 from India. Currently, Beside's programming, I enjoy exploring and traveling.
 
 
 💬 **Languages and Tools Icons**:
@@ -87,7 +82,7 @@ Hi, I'm [Prerit Kumar Jha](https://github.com/prerit2001), Competitive Programme
   <details>
 <summary>📈 My GitHub Stats</summary>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=prerit2001&show_icons=true&theme=gotham" alt="prerit2001" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=prerit2001&show_icons=true&theme=gotham" alt="Rounakkumar795" />
 
 </details>
 </p>
