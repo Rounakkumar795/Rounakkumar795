@@ -74,7 +74,7 @@ Hi, I'm [Rounak Kumar Jha](https://github.com/Rounakkumar795), Competitive Progr
 
   
 <p align='center' style="display: flex; justify-contect: space-between;">
-<img style="border-radius: 5px;" alt="Github Contribution Stats" width="330px" height="240px" src="https://github-contribution-stats.vercel.app/api/?username=prerit2001" />
+<img style="border-radius: 5px;" alt="Github Contribution Stats" width="330px" height="240px" src="https://github-contribution-stats.vercel.app/api/?username=Rounakkumar795" />
 <img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="280" />
 </p> 
 
