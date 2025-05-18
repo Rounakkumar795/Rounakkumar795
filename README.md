@@ -1,12 +1,4 @@
 📩 &nbsp; ***Feel free to contact me. I am always here ...***
-<p align='centre'>
-<a href="">
-  <img align="left" alt="Rounak's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-
-<a href="https://www.codechef.com/users/highflyer_">
-  <img align="left" alt="Rounak's Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/codechef.svg" />
-</a>
 
 <a href="https://codeforces.com/profile/PegasisShow">
   <img align="left" alt="Rounak's Codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/codeforces.svg" />
