@@ -1,12 +1,5 @@
 📩 &nbsp; ***Feel free to contact me. I am always here ...***
 
-<a href="https://codeforces.com/profile/PegasisShow">
-  <img align="left" alt="Rounak's Codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/codeforces.svg" />
-</a>
-
-<a href="https://www.instagram.com/rounak_._/">
-  <img align="left" alt="Rounak's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a> 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Rounakkumar795.Rounakkumar795)
 
