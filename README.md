@@ -1,7 +1,7 @@
 📩 &nbsp; ***Feel free to contact me. I am always here ...***
 <img align='right' alt="GIF" width="320px" height="200px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
 <p align='centre'>
-<a href="https://www.linkedin.com/in/rounak-kumar-jha-37897b166/">
+<a href="">
   <img align="left" alt="Rounak's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
